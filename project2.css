@@ -1,0 +1,493 @@
+html, body {
+    height: 100%;
+    background-image: linear-gradient(220deg, #C6AAAF, #450813);
+  }
+  
+  .masterClass {
+    height: 50%;
+    margin-left: 22%;
+    display: block;
+    align-items:center;
+    justify-content: flex-end;
+  }
+  
+  .button {
+    width: 30.8%;
+    height: 15%;
+    min-height: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color: #000;
+    background-color: #6C2633;
+    box-shadow: 0px 8px 15px rgba(108, 38, 51, 0.5);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    border: 2px solid black;
+    }
+
+    button a{
+        text-decoration: none;
+        color: black;
+    }
+  
+  .button:hover {
+    background-color: #450813;
+    box-shadow: 0px 15px 20px rgba(85, 16, 29, 0.8);
+    color: #fff;
+    transform: translateY(-7px);
+  }
+  
+  .white1 {
+    width: 5%;
+    height: 26%;
+    min-height: 65px;
+    position: absolute;
+    top: 65%;
+    left: 36%;
+    text-align: center;
+    border: 2px solid black;
+    font-family: 'Copperplate', fantasy;
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+    background-color: #ffff;
+    box-shadow: 0px 8px 15px rgba(108, 38, 51, 0.8);
+  }
+  .white2 {
+    width: 5%;
+    height: 26%;
+    min-height: 65px;
+    position: absolute;
+    top: 65%;
+    left: 41.3%;
+    text-align: center;
+    border: 2px solid black;
+    font-family: 'Copperplate', fantasy;
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+    background-color: #ffff;
+    box-shadow: 0px 8px 15px rgba(108, 38, 51, 0.8);
+  }
+  .white3 {
+    width: 5%;
+    height: 26%;
+    min-height: 65px;
+    position: absolute;
+    top: 65%;
+    left: 46.6%;
+    text-align: center;
+    border: 2px solid black;
+    font-family: 'Copperplate', fantasy;
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+    background-color: #ffff;
+    box-shadow: 0px 8px 15px rgba(108, 38, 51, 0.8);
+  }
+  .white4 {
+    width: 5%;
+    height: 26%;
+    min-height: 65px;
+    position: absolute;
+    top: 65%;
+    left: 51.9%;
+    text-align: center;
+    border: 2px solid black;
+    font-family: 'Copperplate', fantasy;
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+    background-color: #ffff;
+    box-shadow: 0px 8px 15px rgba(108, 38, 51, 0.8);
+  }
+  .white5 {
+    width: 5%;
+    height: 26%;
+    min-height: 65px;
+    position: absolute;
+    top: 65%;
+    left: 57.2%;
+    text-align: center;
+    border: 2px solid black;
+    font-family: 'Copperplate', fantasy;
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+    background-color: #ffff;
+    box-shadow: 0px 8px 15px rgba(108, 38, 51, 0.8);
+  }
+  .white6 {
+    width: 5%;
+    height: 26%;
+    min-height: 65px;
+    position: absolute;
+    top: 65%;
+    left: 62.5%;
+    text-align: center;
+    border: 2px solid black;
+    font-family: 'Copperplate', fantasy;
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+    background-color: #ffff;
+    box-shadow: 0px 8px 15px rgba(108, 38, 51, 0.8);
+  }
+  .white7{
+    width: 5%;
+    height: 26%;
+    min-height: 65px;
+    position: absolute;
+    top: 65%;
+    left: 67.8%;
+    text-align: center;
+    border: 2px solid black;
+    font-family: 'Copperplate', fantasy;
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+    background-color: #ffff;
+    box-shadow: 0px 8px 15px rgba(108, 38, 51, 0.8);
+  }
+  .white8 {
+    width: 5%;
+    height: 26%;
+    min-height: 65px;
+    position: absolute;
+    top: 65%;
+    left: 73.1%;
+    text-align: center;
+    border: 2px solid black;
+    font-family: 'Copperplate', fantasy;
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+    background-color: #ffff;
+    box-shadow: 0px 8px 15px rgba(108, 38, 51, 0.8);
+  }
+  .black1{
+    width: 2%;
+    height: 12%;
+    min-height: 45px;
+    position: absolute;
+    top: 65%;
+     left: 40.1%;
+     text-align: center;
+    border: 2px solid black;
+    font-family: 'Copperplate', fantasy;
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+    background-color: #000;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.8);
+  }
+  .black2 {
+    width: 2%;
+    height: 12%;
+    min-height: 45px;
+    position: absolute;
+    top: 65%;
+    left: 45.4%;
+    text-align: center;
+    border: 2px solid black;
+    font-family: 'Copperplate', fantasy;
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+    background-color: #000;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.8);
+  }
+  .black3 {
+    width: 2%;
+    height: 12%;
+    min-height: 45px;
+    position: absolute;
+    top: 65%;
+    left: 56.0%;
+    text-align: center;
+    border: 2px solid black;
+    font-family: 'Copperplate', fantasy;
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+    background-color: #000;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.8);
+  }
+  .black4 {
+    width: 2%;
+    height: 12%;
+    min-height: 45px;
+    position: absolute;
+    top: 65%;
+    left: 61.3%;
+    text-align: center;
+    border: 2px solid black;
+    font-family: 'Copperplate', fantasy;
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+    background-color: #000;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.8);
+  }
+  .black5 {
+    width: 2%;
+    height: 12%;
+    min-height: 45px;
+    position: absolute;
+    top: 65%;
+    left: 66.6%;
+    text-align: center;
+    border: 2px solid black;
+    font-family: 'Copperplate', fantasy;
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+    background-color: #000;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.8);
+  }
+  
+    .square{
+      width: 48%;
+      height: 35%;
+      min-height: 45px;
+      position: absolute;
+      top: 20%;
+      left: 33.0%;
+  
+    
+      background-color: clear;
+      border: 3px solid black;
+      
+    }
+    .line1{
+      width: 48%;
+      height: 0.8%;
+      min-height: 1px;
+      position: absolute;
+      top: 25%;
+      left: 33.2%;
+      background-color: grey; 
+    }
+    .line2{
+      width: 48%;
+      height: 0.8%;
+      min-height: 1px;
+      position: absolute;
+      top: 30%;
+      left: 33.2%;
+      background-color: grey;
+    }
+    .line3{
+      width: 48%;
+      height: 0.8%;
+      min-height: 1px;
+      position: absolute;
+      top: 35%;
+      left: 33.2%;
+      background-color: grey;
+    }
+    .line4{
+      width: 48%;
+      height: 0.8%;
+      min-height: 1px;
+      position: absolute;
+      top: 40%;
+      left: 33.2%;
+      background-color: grey; 
+    }
+    .line5{
+      width: 48%;
+      height: 0.8%;
+      min-height: 1px;
+      position: absolute;
+      top: 45%;
+      left: 33.2%;
+      background-color: grey; 
+    }
+    .dotBS {
+      height: 4.3%;
+      width: 2.3%;
+      position: absolute;
+      top: 30%;
+      left: 33.4%;
+      text-align: center;
+      background-color: turquoise;
+      font-family: 'Copperplate', fantasy;
+      font-size: 100%;
+      border-radius: 50%;
+      border: 2px solid black
+      }
+    .dotBS1 {
+      height: 4.3%;
+      width: 2.3%;
+      position: absolute;
+      top: 30%;
+      left: 38.4%;
+      text-align: center;
+      background-color: turquoise;
+      font-family: 'Copperplate', fantasy;
+      font-size: 100%;
+      border-radius: 50%;
+      border: 2px solid black
+      }
+    .dotA {
+      height: 4.3%;
+      width: 2.3%;
+      position: absolute;
+      top: 32.4%;
+      left: 43.4%;
+      text-align: center;
+      background-color: turquoise;
+      font-family: 'Copperplate', fantasy;
+      font-size: 100%;
+      border-radius: 50%;
+      border: 2px solid black
+      }
+    .dotBS2 {
+      height: 4.3%;
+      width: 2.3%;
+      position: absolute;
+      top: 30%;
+      left: 48.4%;
+      text-align: center;
+      background-color: turquoise;
+      font-family: 'Copperplate', fantasy;
+      font-size: 100%;
+      border-radius: 50%;
+      border: 2px solid black;
+      }
+    .dotA1 {
+      height: 4.3%;
+      width: 2.3%;
+      position: absolute;
+      top: 32.4%;
+      left: 53.4%;
+      text-align: center;
+      background-color: turquoise;
+      font-family: 'Copperplate', fantasy;
+      font-size: 100%;
+      border-radius: 50%;
+      border: 2px solid black
+      }
+    .dotBS3 {
+      height: 4.3%;
+      width: 2.3%;
+      position: absolute;
+      top: 30%;
+      left: 58.4%;
+      text-align: center;
+      background-color: turquoise;
+      font-family: 'Copperplate', fantasy;
+      font-size: 100%;
+      border-radius: 50%;
+      border: 2px solid black;
+    }
+      .dotB {
+          height: 4.3%;
+          width: 2.3%;
+          position: absolute;
+          top: 30%;
+          left: 63.4%;
+          text-align: center;
+          background-color: turquoise;
+          font-family: 'Copperplate', fantasy;
+          font-size: 100%;
+          border-radius: 50%;
+          border: 2px solid black;
+      }
+      .dotC {
+          height: 4.3%;
+          width: 2.3%;
+          position: absolute;
+          top: 27.2%;
+          left: 68.4%;
+          text-align: center;
+          background-color: turquoise;
+          font-family: 'Copperplate', fantasy;
+          font-size: 100%;
+          border-radius: 50%;
+          border: 2px solid black;
+      }
+      .dotBS4 {
+          height: 4.3%;
+          width: 2.3%;
+          position: absolute;
+          top: 30%;
+          left: 73.4%;
+          text-align: center;
+          background-color: turquoise;
+          font-family: 'Copperplate', fantasy;
+          font-size: 100%;
+          border-radius: 50%;
+          border: 2px solid black;
+      }
+      .dotG {
+          height: 4.3%;
+          width: 2.3%;
+          position: absolute;
+          top: 40%;
+          left: 78.4%;
+          text-align: center;
+          background-color: turquoise;
+          font-family: 'Copperplate', fantasy;
+          font-size: 100%;
+          border-radius: 50%;
+          border: 2px solid black;
+      }
+  
+  ul {
+      list-style-type: none;
+      left: 0px;
+      top: 0%;
+      margin: 0;
+      padding: 0;
+      width: 25%;
+      max-width:250px;
+      background-color: #571e28;
+      box-shadow: 0px 8px 15px rgba(53, 13, 21, 0.616);
+      height: 100%; 
+      position: fixed; 
+      overflow: auto; 
+  }
+  li{
+      text-align: center;
+      font-size: 150%;
+  }
+  li a {
+      display: block;
+      color: #000;
+      padding: 20% 20%;
+      text-decoration: none;
+      font-family: 'Roboto', sans-serif;
+      text-transform: uppercase;
+      letter-spacing: 2.5px;
+      transition: all 0.3s ease 0s;
+  }
+  li a:hover{
+      background-color: #450813;
+      box-shadow: 0px 15px 20px rgba(85, 16, 29, 0.8);
+      color: #fff;
+      transform: translateY(-7px);
+      font-family: 'Roboto', sans-serif;
+  }
+  
+  .nav {
+      list-style-type: none;
+      left: 0px;
+      top: 0px;
+      margin: 0;
+      padding: 0;
+      width: 25%;
+      max-width:250px;
+      background-color: #571e28;
+      height: 100%; 
+      position: fixed; 
+      overflow: auto; 
+  }
+  
+  
+  
+  
